@@ -1,0 +1,45 @@
+{
+  "name": "Hanna Safronova, RN",
+  "location": "Roseville, CA",
+  "licenses": ["CA RN #95452319", "NY RN #986427", "BLS-AHA", "CCMA-AMCA"],
+  "target_roles": ["Registered Nurse", "Acute Care RN", "Med-Surg RN", "Neurology RN"],
+  "keywords": [
+    "patient assessment", "vital signs monitoring", "telemetry monitoring",
+    "cardiac monitoring", "neurological assessment", "med-surg nursing",
+    "acute inpatient care", "care planning", "patient safety",
+    "fall prevention protocol", "infection prevention",
+    "isolation precautions", "wound care", "skin integrity assessment",
+    "pain assessment", "blood glucose monitoring", "urinary catheterization",
+    "Foley catheter", "phlebotomy", "NG tube management",
+    "medication administration", "IV", "IM", "SQ", "PO",
+    "specimen collection", "BLS", "CPR", "rapid response", "Code Blue",
+    "SBAR communication", "Epic EHR", "EMR", "clinical documentation",
+    "NDNQI", "patient education", "care coordination", "interdisciplinary",
+    "stroke protocol", "NIHSS", "seizure monitoring", "discharge planning",
+    "immunizations", "chronic disease management",
+    "culturally competent care", "multilingual", "English", "Ukrainian", "Russian"
+  ],
+  "experience": [
+    {
+      "title": "Clinical Physician Intern – Neurology (RN-Equivalent Scope)",
+      "org": "Kharkiv Regional Clinical Hospital, Ukraine",
+      "dates": "Aug 2020 – Feb 2022"
+    },
+    {
+      "title": "Clinical Volunteer – ICU & Cardiology",
+      "org": "Kharkiv Regional Clinical Hospital, Ukraine",
+      "dates": "Jun – Sep 2019"
+    },
+    {
+      "title": "Medical Assistant Extern",
+      "org": "Sutter Medical Foundation – Internal Medicine, Auburn CA",
+      "dates": "Feb – Mar 2024"
+    }
+  ],
+  "education": [
+    "BSN – In Progress, Ternopil Medical University, Ukraine (Exp. 2026)",
+    "Doctor of Medicine (MD Equivalent), Kharkiv National Medical University (2014–2022)",
+    "Clinical Medical Assistant Program, CAL Regional, Roseville CA (2023–2024)",
+    "Diploma in Nursing, Kharkiv Basic Medical College No. 1 (2010–2014)"
+  ]
+}

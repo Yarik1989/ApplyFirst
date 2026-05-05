@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef811ead-4e6c-4664-bb88-76191a51e3dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLAUDE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/resume_base.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ai/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ai/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ai/resume_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ai/scorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/ai/tailor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/applications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/catchup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/healthcheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/notifier/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/notifier/telegram_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/dignity_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/jobspy_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/kaiser_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/rss_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/sutter_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/scrapers/ucdavis_scraper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_resume_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_scorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_scrapers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_tailor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_telegram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/ArtJoker/Bitbucket Project/api" value="PREVIEW" />
+        <entry key="$USER_HOME$/ArtJoker/best-developers-ever-api-23a3204b17a1" value="PREVIEW" />
+        <entry key="$USER_HOME$/ArtJoker/userService/stateMachine" value="PREVIEW" />
+        <entry key="$USER_HOME$/ArtJoker/userService/userService" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/javaapril-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/test-rest-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Sigma University/SigmaGoodsStore" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CKgSdd2hFHgjYeJ7yz4XU4Tk3B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yaroslav/Docs/WORK/myProjects/ApplyFirst&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef811ead-4e6c-4664-bb88-76191a51e3dc" name="Changes" comment="" />
+      <created>1776139676825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776139676825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

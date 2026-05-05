@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Bash(.venv/bin/python:*)",
+      "Bash(curl -s -A 'Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/122.0 Safari/537.36' -I 'https://www.indeed.com/rss?q=registered+nurse&l=Roseville+CA&radius=25&sort=date')",
+      "Bash(curl -sILA \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36\" \"https://jobs.sutterhealth.org/\")",
+      "Bash(curl -sILA \"Mozilla/5.0\" \"https://www.sutterhealth.org/careers\")",
+      "Bash(curl -sLA \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36\" \"https://jobs.sutterhealth.org/us/en\")",
+      "Bash(curl -sLA \"Mozilla/5.0\" \"https://jobs.sutterhealth.org/search-jobs/Registered%20Nurse\")",
+      "Bash(curl -sLA \"Mozilla/5.0\" -H \"Accept: application/json\" \"https://jobs.sutterhealth.org/api/jobs?keyword=Registered+Nurse&location=Roseville&num=5\")",
+      "Bash(curl -sLA \"Mozilla/5.0\" -H \"Accept: application/json\" \"https://jobs.sutterhealth.org/widgets/jobs?keyword=Registered+Nurse\")",
+      "Bash(curl -sLA \"Mozilla/5.0\" \"https://jobs.sutterhealth.org/search-jobs/Registered%20Nurse/Roseville%2C%20CA\")",
+      "Bash(curl -sLA \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/122.0 Safari/537.36\" \"https://jobs.sutterhealth.org/search-jobs/Registered%20Nurse/Roseville%2C%20CA\" -D /tmp/sutter_headers.txt -o /tmp/sutter.html)",
+      "Read(//tmp/**)",
+      "Bash(curl -sLA \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/122.0 Safari/537.36\" \"https://jobs.sutterhealth.org/us/en\" -L -o /tmp/sutter2.html)",
+      "Bash(launchctl unload:*)",
+      "Bash(launchctl load:*)",
+      "Bash(launchctl list:*)",
+      "Bash(.venv/bin/pip install:*)"
+    ]
+  }
+}

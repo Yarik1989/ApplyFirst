@@ -1,0 +1,10 @@
+services:
+  applyfirst:
+    build: .
+    container_name: applyfirst
+    restart: unless-stopped
+    env_file: .env
+    volumes:
+      - ./data:/app/data
+      - ./assets:/app/assets
+    command: python -m backend.main

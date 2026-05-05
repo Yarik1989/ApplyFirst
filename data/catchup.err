@@ -1,0 +1,115 @@
+2026-04-30 07:00:05,694 [INFO] applyfirst.catchup: Found 27 missed jobs from the last 7 days
+2026-04-30 07:00:06,351 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/getMe "HTTP/1.1 200 OK"
+2026-04-30 07:00:06,575 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:07,799 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:07,808 [INFO] applyfirst.catchup: Sent catch-up 1/27: Registered Nurse
+2026-04-30 07:00:11,065 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:11,070 [INFO] applyfirst.catchup: Sent catch-up 2/27: Intern I - High School
+2026-04-30 07:00:14,548 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:14,552 [INFO] applyfirst.catchup: Sent catch-up 3/27: Lead Clinical Documentation Integrity Specialist HYBRID
+2026-04-30 07:00:17,743 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:17,747 [INFO] applyfirst.catchup: Sent catch-up 4/27: Registered Nurse
+2026-04-30 07:00:20,972 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:20,975 [INFO] applyfirst.catchup: Sent catch-up 5/27: After hours RN
+2026-04-30 07:00:24,168 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:24,174 [INFO] applyfirst.catchup: Sent catch-up 6/27: Registered Nurse - Sacramento
+2026-04-30 07:00:27,395 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:27,400 [INFO] applyfirst.catchup: Sent catch-up 7/27: Hospice RN Case Manager
+2026-04-30 07:00:30,596 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:30,604 [INFO] applyfirst.catchup: Sent catch-up 8/27: Hospice RN Case Manager
+2026-04-30 07:00:33,787 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:33,792 [INFO] applyfirst.catchup: Sent catch-up 9/27: Hospice RN Case Manager
+2026-04-30 07:00:36,984 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:36,988 [INFO] applyfirst.catchup: Sent catch-up 10/27: Hospice RN Case Manager
+2026-04-30 07:00:40,184 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:40,188 [INFO] applyfirst.catchup: Sent catch-up 11/27: Director of Nursing Services, Sacramento Ambulatory Surgery Center
+2026-04-30 07:00:43,431 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:43,436 [INFO] applyfirst.catchup: Sent catch-up 12/27: Treatment Nurse (RN)-H
+2026-04-30 07:00:46,718 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:46,723 [INFO] applyfirst.catchup: Sent catch-up 13/27: Social Work Case Manager
+2026-04-30 07:00:49,909 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:49,914 [INFO] applyfirst.catchup: Sent catch-up 14/27: RN Home Health Charge Nurse
+2026-04-30 07:00:53,102 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:53,107 [INFO] applyfirst.catchup: Sent catch-up 15/27: Registered Nurse PreOp PostOp
+2026-04-30 07:00:56,372 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:56,377 [INFO] applyfirst.catchup: Sent catch-up 16/27: CA Medical Case Manager I
+2026-04-30 07:00:59,706 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:00:59,710 [INFO] applyfirst.catchup: Sent catch-up 17/27: CA Telephonic Case Manager I
+2026-04-30 07:01:02,898 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:02,902 [INFO] applyfirst.catchup: Sent catch-up 18/27: Home Health Registered Nurse PRN- Greater Sacramento Area
+2026-04-30 07:01:06,089 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:06,094 [INFO] applyfirst.catchup: Sent catch-up 19/27: Manager, Case Management Nurse Management- Population Health Management
+2026-04-30 07:01:09,308 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:09,314 [INFO] applyfirst.catchup: Sent catch-up 20/27: RN Homecare - Shingle Springs Visits
+2026-04-30 07:01:12,501 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:12,504 [INFO] applyfirst.catchup: Sent catch-up 21/27: Ambulatory Services Administrator, Multi-Specialty
+2026-04-30 07:01:15,696 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:15,702 [INFO] applyfirst.catchup: Sent catch-up 22/27: Registered Nurse, Diagnostic Imaging
+2026-04-30 07:01:18,893 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:18,900 [INFO] applyfirst.catchup: Sent catch-up 23/27: Medical Case Manager - Workers' Compensation
+2026-04-30 07:01:22,087 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:22,095 [INFO] applyfirst.catchup: Sent catch-up 24/27: Medical Case Manager - Workers' Compensation
+2026-04-30 07:01:25,277 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:25,280 [INFO] applyfirst.catchup: Sent catch-up 25/27: Registered Nurse
+2026-04-30 07:01:28,504 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:28,510 [INFO] applyfirst.catchup: Sent catch-up 26/27: Registered Nurse (RN) Behavioral Health / SNF
+2026-04-30 07:01:31,781 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-04-30 07:01:31,787 [INFO] applyfirst.catchup: Sent catch-up 27/27: RN
+2026-04-30 07:01:34,789 [INFO] applyfirst.catchup: Catch-up complete: 27/27 sent
+2026-05-01 07:01:29,684 [INFO] applyfirst.catchup: Found 5 missed jobs from the last 7 days
+2026-05-01 07:01:30,233 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/getMe "HTTP/1.1 200 OK"
+2026-05-01 07:01:30,422 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-01 07:01:31,603 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-01 07:01:31,611 [INFO] applyfirst.catchup: Sent catch-up 1/5: Case Manager - Ambulatory - 26-44
+2026-05-01 07:01:34,845 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-01 07:01:34,849 [INFO] applyfirst.catchup: Sent catch-up 2/5: Case Manager - Ambulatory - 26-43
+2026-05-01 07:01:38,167 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-01 07:01:38,171 [INFO] applyfirst.catchup: Sent catch-up 3/5: Registered Nurse
+2026-05-01 07:01:41,386 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-01 07:01:41,391 [INFO] applyfirst.catchup: Sent catch-up 4/5: Registered Nurse
+2026-05-01 07:01:44,587 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-01 07:01:44,590 [INFO] applyfirst.catchup: Sent catch-up 5/5: ECT Registered Nurse (RN)
+2026-05-01 07:01:47,591 [INFO] applyfirst.catchup: Catch-up complete: 5/5 sent
+2026-05-02 07:00:03,625 [INFO] applyfirst.catchup: Found 12 missed jobs from the last 7 days
+2026-05-02 07:00:04,172 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/getMe "HTTP/1.1 200 OK"
+2026-05-02 07:00:04,371 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:05,604 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:05,609 [INFO] applyfirst.catchup: Sent catch-up 1/12: Field Case Manager (RN) East Los Angeles / Riverside
+2026-05-02 07:00:08,899 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:08,903 [INFO] applyfirst.catchup: Sent catch-up 2/12: Field Case Manager (RN) - West Los Angeles, CA - Long Beach, CA
+2026-05-02 07:00:12,105 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:12,109 [INFO] applyfirst.catchup: Sent catch-up 3/12: Clinical Manager - Home Health - Full Time - Sacramento - $7500 SOB
+2026-05-02 07:00:15,351 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:15,355 [INFO] applyfirst.catchup: Sent catch-up 4/12: Appeals and Grievances - RN, Consultant (Medicare)
+2026-05-02 07:00:18,560 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:18,565 [INFO] applyfirst.catchup: Sent catch-up 5/12: Skilled Nursing Supervisor RN
+2026-05-02 07:00:21,761 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:21,764 [INFO] applyfirst.catchup: Sent catch-up 6/12: Skilled Nursing Manager RN
+2026-05-02 07:00:25,010 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:25,014 [INFO] applyfirst.catchup: Sent catch-up 7/12: Hospice Registered Nurse
+2026-05-02 07:00:28,278 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:28,282 [INFO] applyfirst.catchup: Sent catch-up 8/12: Registered Nurse (RN) - Employee Health
+2026-05-02 07:00:31,477 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:31,481 [INFO] applyfirst.catchup: Sent catch-up 9/12: Registered Nurse (RN) – Specialty Infusion (IVIG / Biologics)
+2026-05-02 07:00:34,681 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:34,686 [INFO] applyfirst.catchup: Sent catch-up 10/12: Home Health RN
+2026-05-02 07:00:37,871 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:37,876 [INFO] applyfirst.catchup: Sent catch-up 11/12: RN, Float Pool (Leadership)
+2026-05-02 07:00:41,136 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-02 07:00:41,140 [INFO] applyfirst.catchup: Sent catch-up 12/12: Director of Nursing
+2026-05-02 07:00:44,142 [INFO] applyfirst.catchup: Catch-up complete: 12/12 sent
+2026-05-03 07:00:05,368 [INFO] applyfirst.catchup: Found 1 missed jobs from the last 7 days
+2026-05-03 07:00:06,300 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/getMe "HTTP/1.1 200 OK"
+2026-05-03 07:00:06,478 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-03 07:00:07,682 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-03 07:00:07,687 [INFO] applyfirst.catchup: Sent catch-up 1/1: Registered Nurse
+2026-05-03 07:00:10,690 [INFO] applyfirst.catchup: Catch-up complete: 1/1 sent
+2026-05-04 07:16:20,780 [INFO] applyfirst.catchup: Found 3 missed jobs from the last 7 days
+2026-05-04 07:16:21,310 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/getMe "HTTP/1.1 200 OK"
+2026-05-04 07:16:21,572 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-04 07:16:22,812 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-04 07:16:22,819 [INFO] applyfirst.catchup: Sent catch-up 1/3: Registered Nurse,
+2026-05-04 07:16:26,001 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8284033654:AAF6G7LAt-RSgqSzc9Tibz6iLeVNvJ-G9Yo/sendMessage "HTTP/1.1 200 OK"
+2026-05-04 07:16:26,005 [INFO] applyfirst.catchup: Sent catch-up 2/3: PD Nurse - Home Therapies
+2026-05-04 08:17:21,324 [WARNING] applyfirst.catchup: Failed to send Medicare MDS Coordinator: httpx.ReadError: 
+2026-05-04 08:17:24,327 [INFO] applyfirst.catchup: Catch-up complete: 2/3 sent
